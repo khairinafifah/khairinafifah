@@ -6,7 +6,7 @@ I'm also a learner, hardworker and I love making new friends. Working on develop
 
 Completed several course at [dicoding](https://www.dicoding.com/users/afifahbelajar) also take courses at [Udemy](https://www.udemy.com/). Email me for details!
 
-- 📍 I’m currently working on [Widya Analytic](https://www.widyaanalytic.com/).
+- 📍 I’m currently working at [Widya Analytic](https://www.widyaanalytic.com/).
 - 💻 I’m learning Front-End and a UI design enthusiast.
 - 📫 How to reach me: khairinafifah172@gmail.com
 
