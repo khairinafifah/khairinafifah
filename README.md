@@ -1,6 +1,6 @@
-### Hi There! 👋
+### Hi, I'm Khairina Afifah 👋
 
-I'm a UI enthusiast, as a Front-End or UI design. Currently working as Software Engineer, especially Front-End.
+A UI enthusiast, as a Front-End or UI design. Currently working as Software Engineer, especially Front-End.
 
 I'm also a learner, hardworker and I love making new friends. Working on developing current skills and learning new skills.
 
@@ -10,7 +10,7 @@ Completed several course at [dicoding](https://www.dicoding.com/users/afifahbela
 - 💻 I’m learning Front-End and a UI design enthusiast.
 - 📫 How to reach me: khairinafifah172@gmail.com
 
-### Languages and Tools
+### Tech Stack
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -21,13 +21,13 @@ Completed several course at [dicoding](https://www.dicoding.com/users/afifahbela
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=khairinafifah&show_icons=true&theme=gotham" alt="khairinafifah" />
  
 ### Social Media
-<a href="https://twitter.com/khairinafifah">
-  <img align="left" alt="Khairina Afifah | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
 <a href="https://www.linkedin.com/in/khairina-afifah-64ba85181/">
   <img align="left" alt="Khairina's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
+<a href="https://twitter.com/khairinafifah">
+  <img align="left" alt="Khairina Afifah | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+ 
 <!--
 **khairinafifah/khairinafifah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
