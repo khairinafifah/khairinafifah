@@ -1,6 +1,6 @@
 ### Hi, I'm Khairina Afifah 👋
 
-A UI enthusiast, as a Front-End or UI design. Currently working as Software Engineer, especially Front-End.
+A UI enthusiast, as a Front-End Engineeer or a UI design. Currently working as Software Engineer, especially Front-End Engineer.
 
 I'm also a learner, hardworker and I love making new friends. Working on developing current skills and learning new skills.
 
