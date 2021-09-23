@@ -1,15 +1,20 @@
-### Hi Everyone 👋
-Greetings, my name is **Khairina Afifah**.\
-I’m currently working on [Widya Analytic](https://www.widyaanalytic.com/).\
-I’m learning Front-End and an UI design enthusiast.\
-Get to know me more via [Linkedin](https://www.linkedin.com/in/khairina-afifah/)
+### Hi Everyone! 👋
+🧕 Greetings, my name is **Khairina Afifah**.\
+📍 I’m currently working on [Widya Analytic](https://www.widyaanalytic.com/).\
+💻 I’m learning Front-End and an UI design enthusiast.\
+📫 How to reach me: khairinafifah172@gmail.com
+
+**🔭 Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+**📈 My Github Stats**
  
-<p align="left">
-<a href="https://github.com/khairinafifah">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=khairinafifah&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=khairinafifah&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=khairinafifah&show_icons=true&theme=gotham" alt="khairinafifah" />
 
 <!--
 **khairinafifah/khairinafifah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
