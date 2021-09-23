@@ -1,7 +1,11 @@
 ### Hi Everyone! 👋
-- 🧕 Greetings, my name is **Khairina Afifah**.\
-- 📍 I’m currently working on [Widya Analytic](https://www.widyaanalytic.com/).\
-- 💻 I’m learning Front-End and an UI design enthusiast.\
+
+I'm a UI enthusiast, as a Front-End or UI design. Currently working as Software Engineer, especially Front-End.
+
+I'm also a learner, hardworker and I love making new friends. Working on developing current skills and learning new skills.
+
+- 📍 I’m currently working on [Widya Analytic](https://www.widyaanalytic.com/).
+- 💻 I’m learning Front-End and a UI design enthusiast.
 - 📫 How to reach me: khairinafifah172@gmail.com
 
 ### Languages and Tools
