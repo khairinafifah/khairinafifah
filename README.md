@@ -4,6 +4,8 @@ I'm a UI enthusiast, as a Front-End or UI design. Currently working as Software 
 
 I'm also a learner, hardworker and I love making new friends. Working on developing current skills and learning new skills.
 
+Completed several course at [dicoding](https://www.dicoding.com/users/afifahbelajar). Take courses at [Udemy](https://www.udemy.com/home/my-courses/learning/). Email me for details!
+
 - 📍 I’m currently working on [Widya Analytic](https://www.widyaanalytic.com/).
 - 💻 I’m learning Front-End and a UI design enthusiast.
 - 📫 How to reach me: khairinafifah172@gmail.com
