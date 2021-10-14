@@ -1,13 +1,13 @@
 ### Hi, I'm Khairina Afifah 👋
 
-A UI enthusiast, as a Front-End Engineeer or a UI design. Currently working as Software Engineer, especially Front-End Engineer.
+A UI enthusiast, as a Front-End Engineeer or a UI design and also a QA enthusiast. Currently working as Software Engineer, especially Front-End Engineer.
 
 I'm also a learner, hardworker and I love making new friends. Working on developing current skills and learning new skills.
 
 Completed several course at [dicoding](https://www.dicoding.com/users/afifahbelajar), also take courses at [Udemy](https://www.udemy.com/). Feel free to ask for details!
 
 - 📍 I’m currently working at [Widya Analytic](https://www.widyaanalytic.com/).
-- 💻 I’m learning Front-End and a UI design enthusiast.
+- 💻 Current position as Front-End Engineer.
 - 📫 How to reach me: khairinafifah172@gmail.com
 
 ### Tech Stack
