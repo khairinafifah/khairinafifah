@@ -6,7 +6,7 @@ I'm also a learner, hardworker and I love making new friends. Working on develop
 
 Completed several course at [dicoding](https://www.dicoding.com/users/afifahbelajar), also take courses at [Udemy](https://www.udemy.com/). Feel free to ask for details!
 
-- 📍 I’m currently working at [Widya Analytic](https://www.widyaanalytic.com/).
+- 📍 Currently working at [Widya Analytic](https://www.widyaanalytic.com/).
 - 💻 Current position as Front-End Engineer.
 - 📫 How to reach me: khairinafifah172@gmail.com
 
